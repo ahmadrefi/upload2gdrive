@@ -1,7 +1,7 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "tesDriveBot"
+drive_folder_name = "upload2gdrive"
 
 
 # Enter Your Mega email And Pass (Required)
@@ -9,7 +9,7 @@ MEGA_EMAIL = ""
 MEGA_PASSWORD = ""
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  "
+START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .  "
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
@@ -19,21 +19,9 @@ HELP = """   <b>AUTHORISE BOT</b>
         Account ?</b> \n
         You Can Use /revoke 
         command            
-<b>What I Can Do With This Bot? </b>
-            You Can Upload Any Internet
-            Files On Your google
-            Drive Account.
-<b> Links Supported By Bot</b>
-            * Direct Links 
-            * Openload links 
-            * Dropbox links 
-            *  Mega links
-            
-            + More On Its way
  
         """
-DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
-OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
+
 PROCESSING = "Processing Your Request ...!!"
 DOWN_TWO = True
 DOWNLOAD = "Downloading Started ..."
